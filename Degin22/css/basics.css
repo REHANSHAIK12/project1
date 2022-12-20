@@ -1,0 +1,57 @@
+
+#col1{
+    height: 160px;
+}
+#row1{
+    border: 1px solid blue;
+}
+#img1{
+    height: 150px;
+    width: 150px;
+    padding-top: 5px;
+}
+#p1{
+    font-size: 30px;
+    color: aqua;
+    
+}
+#p2{
+    font-weight: bold;
+    font-size: 17px;
+}
+#p3{
+    font-size:15px ;
+}
+#row2{
+    border: 1px solid black;
+}
+#p4{
+    font-weight: bold;
+}
+#p5{
+    font-weight: bold;
+}
+#p6{
+    font-weight: bold;
+}
+#p7{
+    font-weight: bold;
+}
+#p8{
+    font-weight: bold;
+}
+#row3{
+    border: 1px solid black;
+}
+
+#p9{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(42, 42, 233);
+}
+#p10{
+    font-weight: bold;
+}
+#p11{
+    font-weight: bold;
+}
