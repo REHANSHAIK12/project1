@@ -1,4 +1,5 @@
 
+
 #col1{
     height: 160px;
 }
@@ -20,7 +21,7 @@
     font-size: 17px;
 }
 #p3{
-    font-size:15px ;
+    font-size:17px ;
 }
 #row2{
     border: 1px solid black;
@@ -53,5 +54,89 @@
     font-weight: bold;
 }
 #p11{
+    font-weight: bold;
+}
+#p12{
+    font-size:17px ;
+}
+#p14{
+    font-size:17px ;
+}
+#p15{
+    font-size:17px ;
+}
+#p17{
+    font-size:17px ;
+}
+#p21{
+    font-size:17px ;
+}
+#p31{
+    font-size:17px ;
+}
+#row4{
+    border: 1px solid black;
+}
+#p18{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(42, 42, 233);
+}
+#col16{
+    border: 1px solid black;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+#p28{
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+#p30{
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+#row6{
+    border: 1px solid black;
+   
+}
+#p22{
+    font-weight: bold;
+}
+#p19{
+    font-weight: bold;
+}
+#p25{
+    font-weight: bold;
+}
+#p36{
+        font-weight: bold;
+        font-size: 20px;
+        color: black;
+}
+#p32{
+    font-weight: bold;
+        font-size: 20px;
+        color: black;
+}
+#p34{
+    font-weight: bold;
+        font-size: 20px;
+        color: black;
+       margin-right: 100px;
+}
+#col22{
+    
+    border: 1px solid black;
+    margin-bottom: 50px;
+}
+#p23{
+    font-weight: bold;
+}
+#p20{
+    font-weight: bold;
+}
+#p26{
     font-weight: bold;
 }
